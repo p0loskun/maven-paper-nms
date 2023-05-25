@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.p0loskun</groupId>
+  <artifactId>paper-nms</artifactId>
+  <versioning>
+    <versions>
+      <version>1.19.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230412094932</lastUpdated>
+  </versioning>
+</metadata>
