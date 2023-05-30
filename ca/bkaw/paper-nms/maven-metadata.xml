@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>ca.bkaw</groupId>
   <artifactId>paper-nms</artifactId>
   <versioning>
