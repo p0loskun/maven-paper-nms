@@ -1,3 +1,7 @@
+```
+.paper-nms -> .../PROJECT/.paper-nms
+```
+
 ```xml
 <pluginRepositories>
     ...
